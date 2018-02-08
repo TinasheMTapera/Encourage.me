@@ -9,6 +9,6 @@ I hope that in any case, these encouragers can be helpful on a rainy day like th
 The real challenge in this project was experimenting with GUI development with the `Tkinter` module in Python 3.x. I quite liked `Tkinter`, but am still struggling to find a way to perfect distribution of the eventual executable using `Pyinstaller`. Hopefully I'll figure it out soon so that *anyone* can use this utility, but in the mean time, just follow these instructions:
 
 1. Download both the `EncourageMe.py` file and the `Quotes.csv` file. Save them on your desktop.
-2. Open `Terminal`. You can do this by searching for Terminal in the spotlight menu, or by going to your Applications folder.
-3. In the Terminal window, simply type: `python ~/Desktop/EncourageMe.py`
+2. Open the `Terminal` app. You can do this by searching for Terminal in the spotlight menu, or by going to your Applications folder.
+3. In the Terminal window, simply type: `python ~/Desktop/EncourageMe.py` (don't be intimidated!)
 4. Enjoy your birthday present! Simply hit the red button when you're done!
